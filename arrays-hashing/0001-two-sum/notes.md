@@ -1,14 +1,21 @@
-## Problem
-[Two Sum](https://leetcode.com/problems/two-sum/) — Easy
+---
+id: 1
+title: Two Sum
+difficulty: Easy
+topic: Hashing
+---
 
-## Approach
-- First tried brute force, two nested loops, O(n^2). Works but TLE risk on large input.
-- Realized: for each number, I just need to check if (target - number) has been seen before.
-- Use a hashmap to store value -> index as I go. One pass.
+## Approach 1: Brute force
+- Nested loop checking every pair, O(n^2)
+- Works but inefficient for large inputs
+
+## Approach 2: Optimal (final)
+- Key insight: for each number, check if (target - number) was already seen
+- Hashmap stores value -> index, single pass
 
 ## Complexity
 Time: O(n)
 Space: O(n)
 
 ## Learnings
-- "Have I seen X before" pattern -> hashmap, almost always O(n) beats O(n^2) nested check.
+- "Have I seen X before" -> hashmap, turns O(n^2) into O(n)
