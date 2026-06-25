@@ -2,7 +2,7 @@
 id: 34
 title: Find First and Last Position of Element in Sorted Array
 difficulty: Medium
-topic: Binary Search
+topic: Arrays, Binary Search
 ---
 
 ## Approach 1: Brute Force
