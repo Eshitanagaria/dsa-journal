@@ -19,5 +19,5 @@ Tracking LC problems with code + actual thought process (not just final answers)
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Binary Search | [solution](arrays-binarySearch/34-findFirstandLastPositionofElementInSortedArray.cpp) |
 | 35 | Search Insert Position | Easy | Binary Search | [solution](arrays-binarySearch/35-searchInsertPosition) |
 | 81 | Search in Rotated Sorted Array II | Medium | Binary Search | [solution](arrays-binarySearch/81-searchInRotatedSortedArray) |
-| 704 | Binary Search | Easy | Array, Binary Search | [solution](arrays-binarySearch/704-binarySearch) |
+| 704 | Binary Search | Easy | Binary Search | [solution](arrays-binarySearch/704-binarySearch) |
 <!-- TABLE_END -->

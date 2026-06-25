@@ -2,7 +2,7 @@
 id: 704
 title: Binary Search
 difficulty: Easy
-topic: Array, Binary Search
+topic:  Binary Search
 ---
 
 ## Approach 1: Iterative Method
