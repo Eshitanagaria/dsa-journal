@@ -15,8 +15,9 @@ Tracking LC problems with code + actual thought process (not just final answers)
 | # | Title | Difficulty | Topic | Link |
 |---|-------|-----------|-------|------|
 | 1 | Two Sum | Easy | Hashing | [solution](arrays-hashing/0001-two-sum) |
-| 33 | Search in Rotated Sorted Array | Medium | Arrays, Binary Search | [solution](arrays-binarySearch/33-searchInRotatedSortedArray) |
-| 34 | Find First and Last Position of Element in Sorted Array | Medium | Arrays, Binary Search | [solution](arrays-binarySearch/34-findFirstandLastPositionofElementInSortedArray.cpp) |
-| 35 | Search Insert Position | Easy | Array, Binary Search | [solution](arrays-binarySearch/35-searchInsertPosition) |
+| 33 | Search in Rotated Sorted Array | Medium | Binary Search | [solution](arrays-binarySearch/33-searchInRotatedSortedArray) |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | Binary Search | [solution](arrays-binarySearch/34-findFirstandLastPositionofElementInSortedArray.cpp) |
+| 35 | Search Insert Position | Easy | Binary Search | [solution](arrays-binarySearch/35-searchInsertPosition) |
+| 81 | Search in Rotated Sorted Array II | Medium | Binary Search | [solution](arrays-binarySearch/81-searchInRotatedSortedArray) |
 | 704 | Binary Search | Easy | Array, Binary Search | [solution](arrays-binarySearch/704-binarySearch) |
 <!-- TABLE_END -->

@@ -2,7 +2,7 @@
 id: 35
 title: Search Insert Position
 difficulty: Easy
-topic: Array, Binary Search
+topic: Binary Search
 ---
 
 ## Approach 1: Brute Force (Linear Search)

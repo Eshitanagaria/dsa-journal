@@ -2,7 +2,7 @@
 id: 33
 title: Search in Rotated Sorted Array
 difficulty: Medium
-topic: Arrays, Binary Search
+topic: Binary Search
 ---
 
 ## Approach 1: Brute Force
