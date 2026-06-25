@@ -53,6 +53,7 @@ The **iterative approach is generally preferred** because it avoids recursive fu
 | Recursive Binary Search | **O(log n)** | **O(log n)** (Recursion Stack) |
 
 ---
+> **Note:** Prefer `mid = low + (high - low) / 2` over `(low + high) / 2`. It avoids potential integer overflow and is the standard implementation used in production code and technical interviews.
 
 ## Learnings
 
