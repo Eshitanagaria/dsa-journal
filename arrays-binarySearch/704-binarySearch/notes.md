@@ -1,3 +1,4 @@
+---
 id: 704
 title: Binary Search
 difficulty: Easy
