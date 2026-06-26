@@ -21,6 +21,6 @@ public:
             }
             ans = min(ans, nums[l]);
         }
-        return ans;
+        return nums[l];
     }
 };
