@@ -21,20 +21,31 @@ topic: Binary Search
 
 ## Approach 2: Optimal (Final)
 
-*To be added.*
+- **Key insight:**
+  - Even though the array is rotated, one half is always sorted.
+  - Compare the middle element with the rightmost element:
+    - If the middle element is greater than the rightmost element, the minimum must lie in the right half.
+    - Otherwise, the minimum lies in the left half, and the middle element could itself be the answer.
+  - Continue narrowing the search space until only the minimum element remains.
+
+- **Why this is better:**
+  - Eliminates half of the search space in every iteration.
+  - Does not require finding the rotation point explicitly.
+  - Efficiently finds the minimum element in logarithmic time.
 
 ---
 
 ## Complexity
 
-**Time:** `O(n)`  
+**Time:** `O(log n)`  
 **Space:** `O(1)`
 
 ---
 
 ## Learnings
 
-- A simple linear scan correctly finds the minimum element.
-- However, since the array is **sorted and rotated**, there is additional structure that can be exploited.
-- The follow-up requires an **O(log n)** solution, indicating that **Binary Search** should be used instead of Linear Search.
-- Before optimizing, it's often helpful to write the brute-force solution first to understand the problem and establish correctness.
+- In a rotated sorted array without duplicates, comparing the middle element with the rightmost element is enough to determine which half contains the minimum.
+- If the middle element is greater than the rightmost element, the minimum lies in the right half.
+- Otherwise, the minimum lies in the left half, and the middle element should not be discarded since it could be the minimum.
+- The search continues until the search space shrinks to a single element, which is the minimum.
+- Always calculate the middle index using `low + (high - low) / 2` instead of `(low + high) / 2` to avoid integer overflow and safely handle edge cases.
