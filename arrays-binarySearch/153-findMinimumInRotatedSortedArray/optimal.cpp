@@ -12,6 +12,11 @@ public:
 
         while(l < r){
             int mid = l + (r-l)/2 ;
+            if(nums[l] <= nums[r]){
+                ans = min(ans, nums[l]);//array already sorted
+                return ans;
+                 //for better optimization
+            }
 
             if(nums[mid] > nums[r]){
                 //elimate left side as answer lies in rhs
