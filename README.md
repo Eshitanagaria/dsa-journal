@@ -20,5 +20,6 @@ Tracking LC problems with code + actual thought process (not just final answers)
 | 35 | Search Insert Position | Easy | Binary Search | [solution](arrays-binarySearch/35-searchInsertPosition) |
 | 81 | Search in Rotated Sorted Array II | Medium | Binary Search | [solution](arrays-binarySearch/81-searchInRotatedSortedArray) |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search | [solution](arrays-binarySearch/153-findMinimumInRotatedSortedArray) |
+| 540 | Single Element in a Sorted Array | Medium | Binary Search | [solution](arrays-binarySearch/540-singleElementInSortedArray) |
 | 704 | Binary Search | Easy | Binary Search | [solution](arrays-binarySearch/704-binarySearch) |
 <!-- TABLE_END -->
