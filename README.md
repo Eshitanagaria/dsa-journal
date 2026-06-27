@@ -22,4 +22,5 @@ Tracking LC problems with code + actual thought process (not just final answers)
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search | [solution](arrays-binarySearch/153-findMinimumInRotatedSortedArray) |
 | 162 | Find Peak Element | Medium | Binary Search | [solution](arrays-binarySearch/162-findPeakElement) |
 | 704 | Binary Search | Easy | Binary Search | [solution](arrays-binarySearch/704-binarySearch) |
+| 875 | Koko Eating Bananas | Medium | Binary Search on Answer | [solution](arrays-binarySearch/875-kokoEatingbananas) |
 <!-- TABLE_END -->
