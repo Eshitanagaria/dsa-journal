@@ -23,4 +23,6 @@ Tracking LC problems with code + actual thought process (not just final answers)
 | 162 | Find Peak Element | Medium | Binary Search | [solution](arrays-binarySearch/162-findPeakElement) |
 | 704 | Binary Search | Easy | Binary Search | [solution](arrays-binarySearch/704-binarySearch) |
 | 875 | Koko Eating Bananas | Medium | Binary Search on Answer | [solution](arrays-binarySearch/875-kokoEatingbananas) |
+| 1283 | Find the Smallest Divisor Given a Threshold | Medium | Binary Search on Answer | [solution](arrays-binarySearch/1283-findSmallestDivisorGivenaThreshold) |
+| 1482 | Minimum Number of Days to Make m Bouquets | Medium | Binary Search on Answer | [solution](arrays-binarySearch/1482-minNumberofDaysToMakemBouquets) |
 <!-- TABLE_END -->
