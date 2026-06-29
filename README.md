@@ -25,4 +25,6 @@ Tracking LC problems with code + actual thought process (not just final answers)
 | 875 | Koko Eating Bananas | Medium | Binary Search on Answer | [solution](arrays-binarySearch/875-kokoEatingbananas) |
 | 1283 | Find the Smallest Divisor Given a Threshold | Medium | Binary Search on Answer | [solution](arrays-binarySearch/1283-findSmallestDivisorGivenaThreshold) |
 | 1482 | Minimum Number of Days to Make m Bouquets | Medium | Binary Search on Answer | [solution](arrays-binarySearch/1482-minNumberofDaysToMakemBouquets) |
+| 1539 | Kth Missing Positive Number | Easy | Binary Search | [solution](arrays-binarySearch/1539-KthMissingPositiveNumber) |
+| 2942 | Find Words Containing Character | Easy | Strings | [solution](arrays-string/2942-findWordsContainingChar) |
 <!-- TABLE_END -->
