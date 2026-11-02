@@ -22,6 +22,7 @@ Tracking LC problems with code + actual thought process (not just final answers)
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search | [solution](arrays-binarySearch/153-findMinimumInRotatedSortedArray) |
 | 162 | Find Peak Element | Medium | Binary Search | [solution](arrays-binarySearch/162-findPeakElement) |
 | 453 | Minimum Moves to Equal Array Elements | Medium | Maths | [solution](arrays-math/453-MinimumMovestoEqualArrayElements) |
+| 462 | Minimum Moves to Equal Array Elements II | Medium | Maths | [solution](arrays-math/462-MinimumMovesToEqualArrayElementsll) |
 | 704 | Binary Search | Easy | Binary Search | [solution](arrays-binarySearch/704-binarySearch) |
 | 875 | Koko Eating Bananas | Medium | Binary Search on Answer | [solution](arrays-binarySearch/875-kokoEatingbananas) |
 | 1283 | Find the Smallest Divisor Given a Threshold | Medium | Binary Search on Answer | [solution](arrays-binarySearch/1283-findSmallestDivisorGivenaThreshold) |
